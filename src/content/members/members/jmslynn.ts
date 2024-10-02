@@ -4,7 +4,7 @@ import type { MemberObject } from '../types';
 // Change _EXAMPLE to `yourGitHubUserName` and add your info below
 export const _EXAMPLE: MemberObject = {
 	// GitHub username (required)
-	github: 'yourGitHubUserName',
+	github: 'jmslynn',
 	//
 	// Everything below here is optional. By default, we pull most profile data from your GitHub profile. You can override that data here, as well as provide some additional account links below.
 	//
@@ -32,7 +32,7 @@ export const _EXAMPLE: MemberObject = {
 	//
 	// Links - You can add one of each type, except website - you can add as many `website` accounts as you wish.
 	accounts: [
-		// { type: 'linkedin', username: 'yourlinkedinUserName' },
+		 { type: 'linkedin', username: 'jennifer-s-lynn' },
 		// { type: 'dev', username: 'yourUserName' },
 		// { type: 'codenewbie', username: 'yourUserName' },
 		// { type: 'twitter', username: 'yourUserName' },
@@ -42,7 +42,8 @@ export const _EXAMPLE: MemberObject = {
 		// { type: 'medium', username: 'yourUserName' },
 		// { type: 'hashnode', username: 'yourUserName' },
 		// { type: 'mastodon', url: 'https://mastodon.server/@username' },
-		// { type: 'website', url: 'https://virtualcoffee.io', title: 'Title of link' },
+		 { type: 'website', url: 'https://jenniferslynn.com/', title: 'Portfolio' },
+
 	],
 	badges: [],
 	// Add your location to our member map at https://virtualcoffee.io/members (optional)

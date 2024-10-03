@@ -45,7 +45,7 @@ export const _EXAMPLE: MemberObject = {
 		 { type: 'website', url: 'https://jenniferslynn.com/', title: 'Portfolio' },
 
 	],
-	badges: [],
+	badges: ['Hacktoberfest 2024'],
 	// Add your location to our member map at https://virtualcoffee.io/members (optional)
 	// Feel free to be as specific or vague as you're comfortable with.
 	// location: {
